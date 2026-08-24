@@ -30,7 +30,7 @@ import bsaLogo from "./assets/education_logo/bsa_logo.png";
 import vpsLogo from "./assets/education_logo/vps_Logo.webp";
 
 // Project Section Logo's
-import ShopNest from "./assets/work_logo/shopnest.png";
+import ShopNest from "./assets/work_logo/ShopNest.png";
 import Bookit from "./assets/work_logo/Bookit.png";
 import Gym from "./assets/work_logo/Gym.png";
 import npmLogo from "./assets/work_logo/npm.png";
