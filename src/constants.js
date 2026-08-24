@@ -36,7 +36,7 @@ import Gym from "./assets/work_logo/Gym.png";
 import npmLogo from "./assets/work_logo/npm.png";
 import imagesearchLogo from "./assets/work_logo/image_search.png";
 import PhonePay from "./assets/work_logo/PhonePay.png";
-import Voting from "./assets/work_logo/VotingApp.png";
+import Voting from "./assets/work_logo/votingApp.png";
 
 export const SkillsInfo = [
   {
