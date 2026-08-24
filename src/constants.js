@@ -27,7 +27,7 @@ import postgreLogo from "./assets/tech_logo/postgre.png";
 // Education Section Logo's
 import glaLogo from "./assets/education_logo/gla_logo.png";
 import bsaLogo from "./assets/education_logo/bsa_logo.png";
-import vpsLogo from "./assets/education_logo/vps_logo.webp";
+import vpsLogo from "./assets/education_logo/vps_Logo.webp";
 
 // Project Section Logo's
 import ShopNest from "./assets/work_logo/shopnest.png";
