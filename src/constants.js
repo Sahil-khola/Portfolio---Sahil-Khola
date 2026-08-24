@@ -14,7 +14,7 @@ import cloudinary from "./assets/tech_logo/Cloudinary.png";
 import Api from "./assets/tech_logo/RestApi.png";
 import Thunder from "./assets/tech_logo/OIP.jpg";
 import Mongoose from "./assets/tech_logo/mongoose.jpg";
-import MongodbCompass from "./assets/tech_logo/mongodbCompass.png";
+import MongodbCompass from "./assets/tech_logo/mongodb.png";
 
 import gitLogo from "./assets/tech_logo/git.png";
 import githubLogo from "./assets/tech_logo/github.png";
