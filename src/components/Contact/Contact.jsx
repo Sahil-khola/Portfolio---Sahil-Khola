@@ -4,8 +4,8 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const Contact = () => {
-  const form = useRef();
-  const [isSent, setIsSent] = useState(false);
+  const form = useRef(); 
+  const [isSent, setIsSent] =  useState(false);
 
   const sendEmail = (e) => {
     e.preventDefault();
