@@ -144,14 +144,14 @@ export const projects = [
     description:
       "A MERN-based event booking application with TailwindCSS and Cloudinary integration, enabling users to browse, book, and manage events easily.",
     image: Bookit,
-    tags: ["React JS", "Node.js", "MongoDB", "Express", "Tailwindcss", "Cloudinary"],
+    tags: ["React JS", "Node.js", "MongoDB", "Express", "Tailwindcss", "Cloudinary", "JSON Web Token"],
     github: "https://github.com/Sahil-khola/BookIt",
     webapp: "https://bookit-cmdf.onrender.com",
   },
   {
     id: 2,
     title: "Voting App",
-    description:"A MERN-based voting application with TailwindCSS and Cloudinary integration, enabling users to browse, vote, and manage events easily.",
+    description:"A MERN-based voting application with TailwindCSS and Web Sockets integration, enabling users to browse, vote, and manage events easily.",
     image: Voting,
     tags: [
       "React JS",
@@ -159,7 +159,8 @@ export const projects = [
       "MongoDB",
       "Express",
       "Tailwindcss",
-      "NodeMailer",
+      "Web Sockets",
+
     ],
     github: "https://github.com/Sahil-khola/Voting-App",
     webapp: "https://livepoll-realtime-mern.onrender.com",
@@ -195,7 +196,7 @@ export const projects = [
     id: 4,
     title: "Pay Nest",
     description:
-      "A React.js background remover app with API integration, allowing users to upload images, remove backgrounds, and download transparent versions.",
+      "A RESTful API backend for **Pay-Nest**, a digital wallet / payment application. It handles user authentication, wallet management, peer-to-peer money transfers, bill payments, and transaction history",
     image: PhonePay,
     tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
     github: "https://github.com/Sahil-khola/Pay-Nest-Backend",
