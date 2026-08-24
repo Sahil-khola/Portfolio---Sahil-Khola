@@ -3,7 +3,7 @@ services:
     name: portfolio
     runtime: node
     buildCommand: npm install && npm run build
-    startCommand: npm run preview
+    startCommand: npx serve dist -l $PORT
     envVars:
       - key: NODE_VERSION
         value: 20
