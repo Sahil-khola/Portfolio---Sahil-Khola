@@ -65,4 +65,4 @@ npm run dev
 ## 📫 Contact
 
 - GitHub: [@Sahil-khola](https://github.com/Sahil-khola)
-- Email: sahil.dev@example.com
+- Email: sahilkhola7202@.com
